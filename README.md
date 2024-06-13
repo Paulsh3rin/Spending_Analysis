@@ -5,4 +5,4 @@ This project aims to analyze my monthly banking data to get an understanding of 
 The data is downloaded directly from the personal online bank account.
 
 ### Dataset Sample
-![alt text](/Users/sherinsmac/Desktop/DSample.png)
+![alt text](https://github.com/Paulsh3rin/Spending_Analysis/blob/main/DSample.png)
