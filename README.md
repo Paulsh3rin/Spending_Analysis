@@ -6,3 +6,7 @@ The data is downloaded directly from the personal online bank account.
 
 ### Dataset Sample
 ![alt text](https://github.com/Paulsh3rin/Spending_Analysis/blob/main/DSample.png)
+
+## Data Transformation
+1. Header created
+2. Text extraction from **Transaction** instances
